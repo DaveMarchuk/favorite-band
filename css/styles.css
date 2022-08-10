@@ -11,3 +11,9 @@
 img {
   float:  left;
 }
+
+.bucket  {
+  padding: 100px;
+  border-width: 10px;
+  margin-bottom: 10px;
+}
